@@ -1,0 +1,7 @@
+# Environment variables
+.env
+
+# Docker Compose files
+compose.yaml
+compose.dev.yaml
+compose.prod.yaml
